@@ -4,11 +4,11 @@
   flex-direction: column;
 }
 title {
-  color: #ebe6e1;
+  display: none;
 }
 body {
   font-family: 'Open Sans', sans-serif;
-  background-color: #ebe6e1;
+  background-color: #CCCC99;
   color: #292929
 }
 p {
@@ -110,13 +110,4 @@ iframe {
 }
 #bible {
   text-align: center;
-}body {
-  font-family: 'Nanum Myeongjo', serif;
-  background-color: #ccc;
-}
-header {
-  background-color: #fff;
-}
-#img-div {
-  background-color: #fff;
 }
