@@ -118,7 +118,8 @@ iframe {
 }
 @media (min-width: 420px) {
   .width {
-    width: 80%;
+    width: 85%;
+    max-width: 85%;
   }
 }
   
