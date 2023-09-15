@@ -116,7 +116,7 @@ iframe {
 #bible {
   text-align: center;
 }
-@media (min-width: 420px) {
+@media (max-width: 420px) {
   .width {
     width: 85%;
     max-width: 85%;
