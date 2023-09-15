@@ -33,6 +33,7 @@ header {
   margin: -1% auto -.2% auto;
   border-radius: 8px;
 }
+/*.width*/
 #title {
   margin: /*2% 0 0 2%;*/;
   text-align: center;
@@ -52,6 +53,7 @@ header {
   margin: 1% auto 0 auto;
   border-radius: 8px;
 }
+/*.width*/
 #image {
   max-width: 100%;
   width: 100%;
@@ -67,6 +69,7 @@ header {
   margin: 1% auto 0 auto;
   border-radius: 8px;
 }
+/*.width*/
 #parables-of-Jesus {
   background-color: #fff;
   max-width: 1000px;
@@ -75,6 +78,7 @@ header {
   margin: 1% auto 0 auto;
   border-radius: 8px;
 }
+/*.width*/
 #tribute-info {
   background-color: #fff;
   max-width: 1000px;
@@ -83,6 +87,7 @@ header {
   margin: 1% auto;
   border-radius: 8px;
 }
+/*.width*/
 .attribution {
   text-align: right;
   padding: 0 14% 0 0;
@@ -111,3 +116,5 @@ iframe {
 #bible {
   text-align: center;
 }
+@media (min-width: 420px) {
+  
