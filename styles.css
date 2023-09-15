@@ -116,10 +116,42 @@ iframe {
 #bible {
   text-align: center;
 }
-@media (max-width: 420px) {
+@media (max-width: 822px) {
   .width {
     width: 85%;
     max-width: 85%;
+  }
+  #img-div {
+    background-color: #fff;
+    max-width: 85;
+    width: 85%;
+    padding: 0 2% 3% 2%;
+    margin: 1% auto 0 auto;
+    border-radius: 8px;
+  }
+  #life-summary {
+    background-color: #fff;
+    max-width: 85%;
+    width: 85%;
+    padding: 0.5% 2% 2% 2%;
+    margin: 1% auto 0 auto;
+    border-radius: 8px;
+  }
+  #parables-of-Jesus {
+    background-color: #fff;
+    max-width: 85%;
+    width: 85%;
+    padding: 0.5% 2% 2% 2%;
+    margin: 1% auto 0 auto;
+    border-radius: 8px;
+  }
+  #tribute-info {
+    background-color: #fff;
+    max-width: 85%;
+    width: 85%;
+    padding: 2%;
+    margin: 1% auto;
+    border-radius: 8px;
   }
 }
   
